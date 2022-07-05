@@ -1,6 +1,6 @@
 # Bilgi
 
-Bu fork 2 temalı sunucular için (anime&public) paylaşılmış bir edittir değişiklikler [BATMAN](https://discord.gg/blitz)'a aittir (botun parayla satılması yasaktır
+Bu fork 2 temalı sunucular için (anime&public) paylaşılmış bir edittir değişiklikler [BATMAN](https://discord.gg/blitz)'e aittir (botun parayla satılması yasaktır
 discord üzerinden temayı kullanmak istediğinizde via BATMAN#0001 vermeniz rica olunur.)
 ve orjinal versiyonun sahibi [Sanctus#7296](https://discord.gg/MEdUDMSTMx)'tur.
 
