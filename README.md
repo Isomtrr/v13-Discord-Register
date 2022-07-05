@@ -1,5 +1,9 @@
 # Bilgi
 
+Bu fork 2 temalı sunucular için (anime&public) paylaşılmış bir edittir değişiklikler [BATMAN](https://discord.gg/blitz)a aittir (botun parayla satılması yasaktır
+discord üzerinden temayı kullanmak istediğinizde via vermeniz rica olunur.)
+ve orjinal versiyonun sahibi [Sanctus#7296](https://discord.gg/MEdUDMSTMx)tur.
+
 Sunucularınızda kullanmanız için kodlanmış bu bot Kayıt/Register botu projesidir. Tamamen sunucunuzla uyumlu çalışması için tasarlanmıştır. Öneri ve şikayetleriniz için discord üzerinden bana ulaşabilirsiniz.
 
 # Kurulum
