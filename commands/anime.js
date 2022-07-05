@@ -13,7 +13,7 @@ module.exports = {
             const member = message.guild.members.cache.get(message.mentions.users.first().id) || message.guild.members.cache.get(args[0]);
             let name = args[1]
             let age = args[2]
-            if (member == "852449921386676235")return message.reply("bunu BATMAN üzerinde kullanamazsın");
+            if (member == "owner id")return message.reply("bunu owner üzerinde kullanamazsın");
             else if (!message.member.roles.cache.has(config.kayıt.kayıtYetkiliID) && !message.member.permissions.has(8)) return message.reply(':x: | Bu komutu kullanabilmek için gerekli izinlere sahip değilsin.')
             else if (!member) return message.reply(':x: | Geçerli bir kullanıcı belirlemelisin.');
             else if (!name) return message.reply(':x: | Geçerli bir isim belirlemelisin.\n\n`Doğru kullanım: .anime @kullanıcı isim yaş`');
