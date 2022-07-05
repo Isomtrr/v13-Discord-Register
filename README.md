@@ -27,4 +27,6 @@ Sunucularınızda kullanmanız için kodlanmış bu bot Kayıt/Register botu pro
 
 ● Discord: [Sanctus#7296](https://discord.gg/MEdUDMSTMx)
 
+● Discord: [BATMAN#0001](https://discord.gg/blitz)
+
 ● Instagram: https://instagram.com/eren.byg
